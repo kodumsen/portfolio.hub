@@ -1,0 +1,1 @@
+{ "name": "your-project-name", "version": "1.0.0", "description": "Your project description", "scripts": { "build": "postcss src/css/*.css -d dist/css" }, "keywords": [], "author": "Your Name", "license": "ISC", "devDependencies": { "autoprefixer": "^10.3.7", "postcss-cli": "^9.1.0" } }
